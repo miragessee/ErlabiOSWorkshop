@@ -1,0 +1,6 @@
+framework module Pods_ErlabiOSWorkshopTests {
+  umbrella header "Pods-ErlabiOSWorkshopTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
